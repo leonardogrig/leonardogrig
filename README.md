@@ -18,13 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/leonardogrig">
-        <img src="https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab&logoColor=white"/>
-    </a>
-    <a href="https://github.com/leonardogrig">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:langsdorf@outlook.com">
-        <img src="https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/>
     </a>
 </div>
 
@@ -70,7 +64,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img src="https://github.com/leonardogrig/leonardogrig/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Langsdorf/langsdorf/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <p align="center">
