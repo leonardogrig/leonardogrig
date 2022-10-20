@@ -48,10 +48,8 @@ Here are some ideas to get you started:
 <div align="center">
     <h3>Public stats:</h4>
     <div display="flex">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrig&layout=compact&hide_border=true&theme=dark&langs_count=3&hide=css"> 
-        
-
-        <img height=160 src="https://github-readme-streak-stats.herokuapp.com?user=leonardogrig&theme=dark&hide_border=true">
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrig&layout=compact&hide_border=true&theme=dark&langs_count=3&hide=css">
+    <img height=160 src="https://github-readme-streak-stats.herokuapp.com?user=leonardogrig&theme=dark&hide_border=true">
     </div>
     <br/>
     <div display="flex">
