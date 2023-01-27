@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
+
+
+<br/>
+<br/>
+
+<div align="center">I like to create things <img src="https://cdn-icons-png.flaticon.com/512/4803/4803405.png" width="13"/><br/><br/>I am Leonardo Grigorio Araujo, a 27 year old developer with a passion for building web projects from start to finish. My background in graphics design, video editing, and digital marketing gives me a unique perspective in web development. At 23 years old, I created a successfull web app that helped me to jump into the industry. Currently, I work at a company called "supernova" in Brazil, where I continue to develop my skills and create tools that make people's lives easier, particularly in the financial market. I love learning and creating things that people will use and enjoy.</div>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/leonardogrig/">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
-
-<br/>
-<br/>
-
-<div align="center">I like to create things <img src="https://cdn-icons-png.flaticon.com/512/4803/4803405.png" width="13"/><br/>I am Leonardo Grigorio Araujo, a 27 year old developer with a passion for building web projects from start to finish. My background in graphics design, video editing, and digital marketing gives me a unique perspective in web development. At 23 years old, I created a successfull web app that helped me to jump into the industry. Currently, I work at a company called "supernova" in Brazil, where I continue to develop my skills and create tools that make people's lives easier, particularly in the financial market. I love learning and creating things that people will use and enjoy.</div>
 
 <br/>
 <hr/>
