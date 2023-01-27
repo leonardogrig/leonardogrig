@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<div align="center">I like to create things <img src="https://cdn-icons-png.flaticon.com/512/4803/4803405.png" width="13"/></div>
+<div align="center">I like to create things <img src="https://cdn-icons-png.flaticon.com/512/4803/4803405.png" width="13"/><br/>I am Leonardo Grigorio Araujo, a 27 year old developer with a passion for building web projects from start to finish. My background in graphics design, video editing, and digital marketing gives me a unique perspective in web development. At 23 years old, I created a successfull web app that helped me to jump into the industry. Currently, I work at a company called "supernova" in Brazil, where I continue to develop my skills and create tools that make people's lives easier, particularly in the financial market. I love learning and creating things that people will use and enjoy.</div>
 
 <br/>
 <hr/>
@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <div align="center">
     <h3 align="center">Tools I've used in some projects:</h3>
     <div display="flex">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
