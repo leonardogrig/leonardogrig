@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <a href="https://github.com/leonardogrig">
+    <a href="https://www.linkedin.com/in/leonardogrig/">
         <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
@@ -31,10 +31,21 @@ Here are some ideas to get you started:
 <hr/>
 
 <div align="center">
-    <h3 align="center">Things I might know a bit of:</h3>
+    <h3 align="center">Tools I've used in some projects:</h3>
     <div display="flex">
+        <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BTC-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Adobe%20xd-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white"/>
+        <img src="https://img.shields.io/badge/After%20effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white"/>
         <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
