@@ -76,6 +76,15 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    40 hrs 20 mins  █████████████████░░░░░░░░   67.51 %
+PHP           5 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Bash          5 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+JSON          3 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Python        3 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+```
+
 <!--END_SECTION:waka-->
 
 
