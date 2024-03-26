@@ -61,16 +61,6 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<div align="center">
-    <h3>Public stats:</h4>
-    <div display="flex">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogrig&layout=compact&hide_border=true&theme=dark&langs_count=5"/> 
-    </div>
-    <br/>
-   
-</div>
-
-
 <p align="center">
  
 
