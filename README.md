@@ -74,3 +74,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonardogrig" alt="" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
