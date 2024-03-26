@@ -72,8 +72,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardogrig" alt="" />
-</p>
+ 
 
 <!--START_SECTION:waka-->
 
@@ -87,4 +86,5 @@ Python        3 hrs 23 mins   █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+</p>
 
