@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2022 - To: 24 June 2024
+From: 19 October 2022 - To: 25 June 2024
 
-Total Time: 1,765 hrs 43 mins
+Total Time: 1,767 hrs
 
-TypeScript                 876 hrs 42 mins ████████████▒░░░░░░░░░░░░   49.43 %
-PHP                        230 hrs 37 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-JavaScript                 209 hrs 57 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+TypeScript                 877 hrs 56 mins ████████████▒░░░░░░░░░░░░   49.46 %
+PHP                        230 hrs 40 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+JavaScript                 209 hrs 57 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
 Python                     192 hrs 11 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
 JSON                       76 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 CSS                        62 hrs 39 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
