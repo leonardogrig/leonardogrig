@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/leonardogrig/">
-        <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
     <h3 align="center">Tools I've used in some projects:</h3>
