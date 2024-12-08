@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2022 - To: 05 December 2024
+From: 19 October 2022 - To: 06 December 2024
 
-Total Time: 4,594 hrs
+Total Time: 4,594 hrs 29 mins
 
-TypeScript                 2,343 hrs 52 mins████████████▓░░░░░░░░░░░░   50.50 %
+TypeScript                 2,344 hrs 17 mins████████████▓░░░░░░░░░░░░   50.50 %
 PHP                        467 hrs 44 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
 Python                     444 hrs 35 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
 JavaScript                 430 hrs 19 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
