@@ -51,19 +51,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2022 - To: 11 December 2025
+From: 19 October 2022 - To: 12 December 2025
 
-Total Time: 2,721 hrs 57 mins
+Total Time: 2,722 hrs 46 mins
 
-TypeScript                 1,509 hrs 8 mins█████████████▓░░░░░░░░░░░   54.90 %
+TypeScript                 1,509 hrs 38 mins█████████████▓░░░░░░░░░░░   54.89 %
 PHP                        249 hrs 42 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
 Python                     237 hrs 21 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JavaScript                 228 hrs 40 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+JavaScript                 228 hrs 40 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
 Bash                       121 hrs 16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 CSS                        79 hrs 48 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 Prisma                     40 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 Markdown                   35 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Other                      26 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Other                      27 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
