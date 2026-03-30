@@ -39,6 +39,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-%23C21325?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
     </div>
 </div>
 
