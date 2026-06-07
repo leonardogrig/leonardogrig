@@ -52,19 +52,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2022 - To: 04 June 2026
+From: 19 October 2022 - To: 06 June 2026
 
-Total Time: 2,853 hrs 28 mins
+Total Time: 2,859 hrs 47 mins
 
-TypeScript                 1,571 hrs 47 mins     █████████████▓░░░░░░░░░░░   54.34 %
-PHP                        249 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Python                     237 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-JavaScript                 229 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Bash                       132 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-CSS                        81 hrs 10 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Markdown                   61 hrs 15 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Prisma                     42 hrs 27 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Other                      38 hrs 46 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript                 1,573 hrs 34 mins     █████████████▓░░░░░░░░░░░   54.27 %
+PHP                        249 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+Python                     237 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+JavaScript                 229 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Bash                       132 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+CSS                        81 hrs 14 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Markdown                   62 hrs 29 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Prisma                     42 hrs 27 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Other                      39 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
