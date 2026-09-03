@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2022 - To: 01 September 2026
+From: 19 October 2022 - To: 02 September 2026
 
 Total Time: 2,931 hrs 53 mins
 
@@ -64,7 +64,7 @@ Bash                       137 hrs 15 mins       █░░░░░░░░░�
 CSS                        82 hrs 10 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 Markdown                   81 hrs 56 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 Prisma                     43 hrs 14 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other                      41 hrs 26 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other                      41 hrs 30 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
